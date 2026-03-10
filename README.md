@@ -1,77 +1,88 @@
-<h1 align="center">Olá, eu sou a Sâmela.</h1>
+# 👩🏻‍💻 Sâmela
 
-<p align="center">
-💻Engenheira de software em formação <br>
-☕ Focada em Java e desenvolvimento backend <br>
-🚀 Em constante evolução na programação
+**`Desenvolvedora Backend em formação`**
+
+Me chamo **Sâmela** e sou estudante do primeiro periodo da faculdade de ADS. Estou focada em desenvolvimento **backend com Java**, aprendendo a construir aplicações e APIs usando **Spring Boot** e trabalhando com **bancos de dados MySQL**.
+
+Sou apaixonada por tecnologia e estou sempre buscando aprender mais, criar projetos e evoluir como desenvolvedora.
+
+<p align="left">
+    <a href="https://github.com/Samelavie?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/SEUUSUARIO?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/Samelavie?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/Samelavie?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
 </p>
 
 ---
 
-## ✨ Sobre mim
+### 🤖 Linguagens e Tecnologias
 
-- 🎓 Estudando **Java e desenvolvimento backend**
-- 🌱 Aprendendo **Spring Boot e banco de dados**
-- 💡 Gosto de tecnologia e resolver problemas com código
-- 🎯 Objetivo: me tornar uma desenvolvedora profissional
+<img 
+    align="left" 
+    alt="Java"
+    title="Java" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
 
----
+<img 
+    align="left" 
+    alt="Spring Boot"
+    title="Spring Boot" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+/>
 
-## 🛠️ Tecnologias que estou aprendendo
+<img 
+    align="left" 
+    alt="MySQL"
+    title="MySQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
 
-<div style="display: inline_block"><br>
+<img 
+    align="left" 
+    alt="Git"
+    title="Git" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
 
-<img align="center" alt="Java" height="45" width="45"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+<br/>
+<br/>
 
-<img align="center" alt="Spring Boot" height="45" width="45"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+### 📊 Estatísticas
 
-<img align="center" alt="MySQL" height="45" width="45"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Samelavie&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
-</div>
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samelavie&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
----
+</p>
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&langs_count=7&theme=tokyonight"/>
-
-</div>
-
----
-
-## 🔥 Sequência de commits
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=SEUUSUARIO&theme=tokyonight"/>
-
-</div>
-
----
-
-## 🐍 Contribuições
-
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-
----
-
-## 🌎 Onde me encontrar
-
-<div>
-
-<a href="https://github.com/Samelavie">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</div>
-
----
-
-✨ *"Sempre aprendendo e evoluindo na programação."*
